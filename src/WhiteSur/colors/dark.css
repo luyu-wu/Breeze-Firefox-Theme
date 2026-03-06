@@ -101,8 +101,8 @@
 	--gnome-inactive-urlbar-border-color: #282828;
 	--gnome-inactive-urlbar-box-shadow: none;
 	--gnome-inactive-urlbar-color: #d6d6d6;
-	--gnome-focused-urlbar-border-color: #b23636;
-	--gnome-focused-urlbar-highlight-color: #006EA0;
+	--gnome-focused-urlbar-border-color: #505050;
+	--gnome-focused-urlbar-highlight-color: #505050;
 	--gnome-private-urlbar-background: #25003e;
 
 	/* Tabs */
